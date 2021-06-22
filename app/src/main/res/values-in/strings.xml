@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UTS_YENGGI</string>
+    <string name="sejarah_utsman_bin_affan">SEJARAH UTSMAN BIN AFFAN</string>
+    <string name="utsman_bin_affan_dan_ayyubiyah">UTSMAN BIN AFFAN DAN AYYUBIYAH</string>
+    <string name="sejarah">SEJARAH</string>
+    <string name="sejarah_dinasti_ayyubiyah">SEJARA AYYUBIYAH</string>
+    <string name="action_settings">PENGATURAN</string>
+</resources>
